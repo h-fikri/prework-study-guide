@@ -27,7 +27,7 @@ N/A
 ## Credits
 
 My main source of information are:
-Main Module
+- Main Module
 - Brad Traversy Youtube Channel. His style of teaching is very concise and easy to follow in a logical and structured way of learning, while removing unnecessary additional knowledge that may confuse beginner level coder like me. https://www.youtube.com/c/TraversyMedia
 - Web Programming UNPAS (Indonesian Youtube Channel): This is incredibly helpful for the explanation of Git and Github. Answering many many questions that I had during the tutorial. https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf
 
