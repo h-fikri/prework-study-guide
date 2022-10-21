@@ -2,11 +2,11 @@
 
 ## Description
 This project is an introductory level to the bootcamp to "touch base". 
-While I have a beginner-level of HTML CSS and Javascript Coding, the real challenges is Git and Github, including the installation of SSH Keys. 
+While I have a beginner-level of HTML CSS and Javascript Coding, the real challenges are Git and Github, including the installation of SSH Keys. 
 
-For the past week doing Pre Work, 80% of my study time went to Git, Github, Terminal, and Installation. At the end of the week, I feel 80% more confident in using basic Git Collaboration. Although I still need to learn a lot, like rebase, working with branches of branches of branches and how to merge them all, I believe I can finish them within another week. 
+For the past week doing Pre Work, 80% of my study time went to Git, Github, Terminal, and its SSH Installation. At the end of the week, I feel 80% more confident in using basic Git Collaboration. Although I still need to learn a lot, like rebase, working with branches of branches of branches and how to merge them all, I believe I can finish them within another week. 
 
-On the other hand, the material on HTML and CSS discussed in the first week of class, ending 21 October 2022, is fairly simple and I have been through them from my own personal knowledge after learning by myself previously.
+On the other hand, the material on HTML and CSS discussed in the first week of class, ending 21 October 2022, was fairly simple and I have understood them from my own personal knowledge after learning by myself previously.
 
 Onward, I need to allocate my time through CSS layout practice like grid and flexbox, and mostly on Javascript. 
 
